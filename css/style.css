@@ -1,6 +1,26 @@
 .bg-header{
     background-color: #2C3E50ff;
 }
+.bg-mint{
+    background-color: #1ABC9Cff;
+}
 .text-uppercase{
     text-transform: uppercase;
+}
+.text-color-charcoal{
+    color: #2C3E50ff;
+}
+ul li{
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+.col-12 img{
+    height: 200px;
+}
+.col-12 button{
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
 }
